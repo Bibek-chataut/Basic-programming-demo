@@ -1,2 +1,2 @@
 
-print("python first program...")
+print("python first ...")
